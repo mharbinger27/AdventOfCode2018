@@ -1,0 +1,11 @@
+
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.user
+*.exe
+*.config
+*.pdb
+*.cache
+*.txt
